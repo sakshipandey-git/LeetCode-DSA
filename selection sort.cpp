@@ -1,4 +1,4 @@
-//selection_sort
+//selection_sort ascending
 #include<stdio.h>
 void selectionsort(int arr[],int n){
 	int i,j,min;
